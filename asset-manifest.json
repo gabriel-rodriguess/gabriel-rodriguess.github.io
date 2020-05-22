@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3992a018.chunk.css",
+    "main.js": "/static/js/main.41ee0d10.chunk.js",
+    "main.js.map": "/static/js/main.41ee0d10.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.869c1cb8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.869c1cb8.js.map",
+    "static/js/2.82c24fbc.chunk.js": "/static/js/2.82c24fbc.chunk.js",
+    "static/js/2.82c24fbc.chunk.js.map": "/static/js/2.82c24fbc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8a0570d7a19523100acce2798a7b1c97.js": "/precache-manifest.8a0570d7a19523100acce2798a7b1c97.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3992a018.chunk.css.map": "/static/css/main.3992a018.chunk.css.map",
+    "static/js/2.82c24fbc.chunk.js.LICENSE.txt": "/static/js/2.82c24fbc.chunk.js.LICENSE.txt",
+    "static/media/vue.css": "/static/media/program_wallpaper_5blur.ce93820d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.869c1cb8.js",
+    "static/js/2.82c24fbc.chunk.js",
+    "static/css/main.3992a018.chunk.css",
+    "static/js/main.41ee0d10.chunk.js"
+  ]
+}
